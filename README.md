@@ -1,2 +1,2 @@
-# basaha-hierarchical-crosslinual-ara
-This repository contains the code and data for BasahaCorpus paper accepted for EMNLP 2023.
+# BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages
+This repository contains the code and data for the BasahaCorpus paper accepted for EMNLP 2023.

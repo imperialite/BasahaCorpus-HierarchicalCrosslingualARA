@@ -15,7 +15,7 @@ The data from these languages are all distributed across the Philippine elementa
 All used datasets are inside the `data` folder categorized by language. The formatted .txt and .csv files as the extracted features from the code are included in each language.
 
 #### Linguistic Feature Extraction
-Inside the `code` folder there are three parser files (`syll_parse.py`, `trad_parser.py`, `CLGSNGO_parser.py`) and three function files (`SYLL.py`, `TRAD.py`, `CLGSNGO.py`). The function files contain the functions for extracting the linguistic features and the parser files are where you input your .csv files to iterate row-by-row. Each parser file will output a .csv file containing the extracted features, which you can combine or concatenate together for experimentation (see examples such as `tag_features.csv` in the data/raw/features/ folder).
+Inside the `code` folder there are three parser files (`syll_parse.py`, `trad_parser.py`, `CLGSNGO_parser.py`) and three function files (`SYLL.py`, `TRAD.py`, `CLGSNGO.py`). The function files contain the functions for extracting the linguistic features and the parser files are where you input your .csv files to iterate row-by-row. Each parser file will output a .csv file containing the extracted features, which you can combine or concatenate together for experimentation (see examples such as `rin_features.csv` in the data/features/ folder).
 
 ### References
 If you use any of the materials in this repository, including the dataset or the code, please add the following citations to your paper:

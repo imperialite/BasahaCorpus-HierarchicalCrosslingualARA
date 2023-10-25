@@ -2,7 +2,7 @@
 
 ***CURRENTLY BEING UPDATED***
 
-This repository hosts the code and data used for the EMNLP 2023 Main paper [*"BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages"*](https://arxiv.org/abs/2310.11584) by Joseph Imperial and Ekaterina Kochmar. 
+This repository hosts the code and data used for the EMNLP 2023 Main [paper](https://arxiv.org/abs/2310.11584) entitled *"BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages"* by Joseph Imperial and Ekaterina Kochmar. 
 
 ### Dependencies
 1. Numpy and Pandas for data processing.

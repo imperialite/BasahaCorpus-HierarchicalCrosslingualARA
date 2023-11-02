@@ -1,8 +1,8 @@
 # BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages
 
-***CURRENTLY BEING UPDATED***
-
 This repository hosts the code and data used for the EMNLP 2023 Main [paper](https://arxiv.org/abs/2310.11584) entitled *"BasahaCorpus: An Expanded Linguistic Resource for Readability Assessment in Central Philippine Languages"* by Joseph Imperial and Ekaterina Kochmar. 
+
+**Note: Please send an email before submitting this repository to any data cataloging or data collecting projects or initiatives. The proponents of the paper of this dataset would like to be acknowledged appropriately or involved in co-authorship.**
 
 ### Dependencies
 1. Numpy and Pandas for data processing.
@@ -27,8 +27,6 @@ Imperial, J. M., & Ong, E. (2020). Exploring hybrid linguistic feature sets to m
 Imperial, J. M., Reyes, L. L. A., Ibanez, M. A., Sapinit, R., & Hussien, M. (2022). A Baseline Readability Model for Cebuano. In Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022) (pp. 27-32).
 
 ```
-
-
 ### Contact
 If you need any help reproducing the results, please don't hesitate to contact me below:
 

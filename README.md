@@ -26,8 +26,8 @@ Imperial, J. M., Reyes, L. L. A., Ibanez, M. A., Sapinit, R., & Hussien, M. (202
 
 ```
 
-### Note of Data Cataloging
-Please send an email before submitting this repository to any data cataloging or data collecting projects or initiatives. The proponents of the paper of this dataset would like to be acknowledged appropriately or involved in co-authorship.
+### Note on Data Cataloging
+Please send an email before submitting this repository to any data cataloging, data aggregation, and benchmarking projects/initiatives. The proponents of the paper of this dataset would like to be acknowledged appropriately or involved in co-authorship.
 
 ### Contact
 If you need any help reproducing the results, please don't hesitate to contact me below:
